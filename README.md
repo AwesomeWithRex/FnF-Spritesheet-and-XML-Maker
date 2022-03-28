@@ -1,3 +1,7 @@
+# MY FORK OF FNF SPRITESHEET AND XML GENERATOR
+I plan to add on some features sooner or later, right now I can't even compile it. ._.
+``` Help ```
+
 # FnF-Spritesheet-and-XML-Maker
 A Friday Night Funkin' mod making helper tool that allows you to generate XML files and spritesheets from individual pngs. This is a free and open-source mini-replacement tool to the "Generate Spritesheet" functionality in Adobe Animate/Flash
 <br />
